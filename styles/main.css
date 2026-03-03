@@ -1,0 +1,13 @@
+/* color variables */
+:root {
+  --carbonBlack: #1c1c1c;
+  --alabasterGrey: #e6e7e8;
+  --goldenGlow: #e4d00a;
+  --trueAzure: #4907ab;
+  --yaleBlue: #063c60;
+}
+
+html,body {
+  background-color: var(--carbonBlack);
+  color: var(--alabasterGrey);
+}
